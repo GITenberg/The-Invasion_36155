@@ -1,0 +1,35 @@
+_repo: The-Invasion_36155
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Queux, William
+    aliases:
+    - Queux, William Le
+    - Queux, William Tufnell Le
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '3141'
+    url: http://www.gutenberg.org/2009/agents/3141
+    wikipedia: http://en.wikipedia.org/wiki/William_Le_Queux
+description: One of the most acclaimed war novels of the twentieth century, William
+  Le Queux's The Invasion is a thrilling work that imagines much of Europe falling
+  prey to a German attack unleashed in 1910. Originally serialized in a British newspaper,
+  the story was a smashing success. When published in book form, it sold out in stores
+  around the world and ultimately was translated into nearly 30 languages.
+gutenberg_issued: '2011-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Imaginary wars and battles'
+- !lcsh 'Great Britain -- Defenses'
+- !lcc 'UA'
+title: The Invasion
+url: http://www.gutenberg.org/ebooks/36155
